@@ -1,0 +1,1 @@
+A simple e-commerce project using laravel 5.4 . I'm updating the project to take advantage of the new features in the laravel framework.
